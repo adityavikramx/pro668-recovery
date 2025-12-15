@@ -211,7 +211,7 @@ This tool would not be possible without the work of others:
 - **GitHub:** [philcovington/GREFwTool](https://github.com/philcovington/GREFwTool)
 - **Original Author:** Eric A. Cottrell (WB1HBU)
 - **What we used:**
-  - XOR transcoding tables for platform conversion (WS1080 ↔ PRO-668)
+  - XOR transcoding tables for platform conversion (WS1080 <-> PRO-668)
   - GRE serial protocol documentation and implementation
   - Firmware binary files (WS1080e_U3.8.bin)
 - **License:** The original GREFwTool is open source
@@ -253,6 +253,3 @@ and are included for repair/recovery purposes under fair use principles.
 - [GREFwTool GitHub](https://github.com/philcovington/GREFwTool)
 - [RadioReference PRO-668 Wiki](https://wiki.radioreference.com/index.php/Pro-668)
 - [RadioReference Forums - PRO-668 Discussion](https://forums.radioreference.com/threads/radio-shack-pro-668-loaded-with-whistler-dmr-firmware.339155/)
-#   p r o 6 6 8 - r e c o v e r y  
- #   p r o 6 6 8 - r e c o v e r y  
- 
