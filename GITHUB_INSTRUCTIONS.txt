@@ -1,0 +1,64 @@
+========================================
+PRO-668 RECOVERY TOOL - GITHUB UPLOAD
+========================================
+
+This folder contains everything needed to create a GitHub repository
+for the PRO-668 Firmware Recovery Tool.
+
+CONTENTS:
+---------
+README.md           - Main project documentation
+RECOVERY_GUIDE.md   - Step-by-step user guide
+LICENSE             - MIT License
+requirements.txt    - Python dependencies
+.gitignore          - Git ignore rules
+upload_firmware.py  - Main upload script
+download_firmware.py - Firmware download helper
+UPLOAD_FIRMWARE.bat - Windows batch launcher
+firmware/           - Firmware files folder
+  WS1080e_U3.8.bin  - Working firmware (366KB)
+
+
+HOW TO UPLOAD TO GITHUB:
+------------------------
+
+1. Create a GitHub account if you don't have one:
+   https://github.com/signup
+
+2. Create a new repository:
+   - Go to https://github.com/new
+   - Name: pro668-recovery
+   - Description: Recovery tool for bricked Radio Shack PRO-668 scanners
+   - Make it Public
+   - Do NOT initialize with README (we have one)
+   - Click "Create repository"
+
+3. Install Git for Windows if needed:
+   https://git-scm.com/download/win
+
+4. Open Command Prompt and run these commands:
+
+   cd "C:\PRO-668\GitHub-pro668-recovery"
+   git init
+   git add .
+   git commit -m "PRO-668 Firmware Recovery Tool - Initial release"
+   git branch -M main
+   git remote add origin https://github.com/YOUR_USERNAME/pro668-recovery.git
+   git push -u origin main
+
+5. GitHub will ask for your credentials. Use:
+   - Username: your GitHub username
+   - Password: a Personal Access Token (not your password)
+     Create one at: https://github.com/settings/tokens
+
+6. Done! Your repository will be live at:
+   https://github.com/YOUR_USERNAME/pro668-recovery
+
+
+SHARING WITH OTHERS:
+--------------------
+Once uploaded, share the link on RadioReference forums to help
+other PRO-668 owners who have bricked scanners!
+
+Forum thread:
+https://forums.radioreference.com/threads/radio-shack-pro-668-loaded-with-whistler-dmr-firmware.339155/

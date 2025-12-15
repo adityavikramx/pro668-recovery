@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Downloaded archives (keep extracted .bin files)
+firmware/*.7z
+firmware/*.rar
+firmware/*.zip
+
+# Logs
+*.log
+
+# Executables (except batch files)
+*.exe
+
+# Downloaded tools
+7z-new/
+7za/
+
+# Other downloaded software
+PRO668_iScan.exe
+PRO-668/
+
+# Keep these in the repo
+!firmware/.gitkeep
